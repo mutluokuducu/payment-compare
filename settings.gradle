@@ -1,0 +1,4 @@
+rootProject.name = 'paymentology'
+
+include 'service', 'component-test'
+
